@@ -1,0 +1,1 @@
+#This folder will contain both raw data and processed one

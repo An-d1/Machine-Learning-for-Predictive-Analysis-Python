@@ -45,7 +45,7 @@ sarima_result.plot_diagnostics(figsize=(12,6))
 plt.show()
 
 # Forecast next 12 months
-forecast_steps = 12
+forecast_steps = 24
 future_dates = pd.date_range(start=df_ts.index[-1], periods=forecast_steps+1, freq='M')[1:]
 forecast = sarima_result.get_forecast(steps=forecast_steps)
 forecast_ci = forecast.conf_int()
@@ -59,6 +59,22 @@ plt.legend()
 plt.title("Tourist Forecast for Next 12 Months")
 plt.show()
 
+# pie chart for the forecasted year (2025)
+year = 2025
+# Create month names for the forecast period
+albanian_months = ["Janar", "Shkurt", "Mars", "Prill", "Maj", "Qershor",
+                   "Korrik", "Gusht", "Shtator", "Tetor", "Nentor", "Dhjetor"]
+
+# Get the 2025 forecast data (first 12 months of forecast)
+forecast_2025 = forecast.predicted_mean[:12]
+month_indices = [d.month - 1 for d in future_dates[:12]]  # Convert to 0-based month indices
+month_names = [albanian_months[i] for i in month_indices]
+
+plt.figure(figsize=(10, 10))
+plt.pie(forecast_2025, labels=month_names, autopct='%1.1f%%', startangle=90)
+plt.title(f"Predicted Monthly Tourist Share ({year}) (Ndarja sipas muajve e turisteve qe priten ne Shqiperi per vitin {year})")
+plt.show()
+
 forecast_df = pd.DataFrame({
     "Date": future_dates,
     "Predicted_Tourists": forecast.predicted_mean.values,
@@ -67,8 +83,3 @@ forecast_df = pd.DataFrame({
 })
 pd.options.display.float_format = '{:,.0f}'.format  # No decimals, comma separator
 print(forecast_df)
-sum = 0;
-for numbers in forecast_df["Predicted_Tourists"]:
-    sum += numbers
-
-print(sum)

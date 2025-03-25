@@ -56,7 +56,7 @@ plt.plot(df_ts, label="Observed", color="blue")
 plt.plot(future_dates, forecast.predicted_mean, label="Forecast", color="red")
 plt.fill_between(future_dates, forecast_ci.iloc[:,0], forecast_ci.iloc[:,1], color='pink', alpha=0.3)
 plt.legend()
-plt.title("Tourist Forecast for Next 12 Months")
+plt.title(f"Tourist Forecast for Next {forecast_steps} Months")
 plt.show()
 
 # pie chart for the forecasted year (2025)

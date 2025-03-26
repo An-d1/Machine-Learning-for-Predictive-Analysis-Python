@@ -1,0 +1,171 @@
+{
+  "dataset": {
+    "dimension": {
+      "Llojtransporti": {
+        "label": "Mënyrës së udhëtimit",
+        "category": {
+          "index": {
+            "1": 0
+          },
+          "label": {
+            "1": "Gjithsej"
+          }
+        }
+      },
+      "Shtetas": {
+        "label": "Shtetësia",
+        "category": {
+          "index": {
+            "2": 0
+          },
+          "label": {
+            "2": "Të Huaj"
+          }
+        }
+      },
+      "HyrjeDaljet": {
+        "label": "Hyrje/Dalje",
+        "category": {
+          "index": {
+            "1": 0
+          },
+          "label": {
+            "1": "Hyrje"
+          }
+        }
+      },
+      "ContentsCode": {
+        "label": "Variabla",
+        "category": {
+          "index": {
+            "instat1": 0
+          },
+          "label": {
+            "instat1": "Hyrje/Dalje e shtetasve shqiptar dhe të huaj"
+          },
+          "unit": {
+            "instat1": {
+              "base": "numër",
+              "decimals": 0
+            }
+          }
+        }
+      },
+      "Viti": {
+        "label": "Viti",
+        "category": {
+          "index": {
+            "2001": 0,
+            "2002": 1,
+            "2003": 2,
+            "2004": 3,
+            "2005": 4,
+            "2006": 5,
+            "2007": 6,
+            "2008": 7,
+            "2009": 8,
+            "2010": 9,
+            "2011": 10,
+            "2012": 11,
+            "2013": 12,
+            "2014": 13,
+            "2015": 14,
+            "2016": 15,
+            "2017": 16,
+            "2018": 17,
+            "2019": 18,
+            "2020": 19,
+            "2021": 20,
+            "2022": 21,
+            "2023": 22,
+            "2024": 23
+          },
+          "label": {
+            "2001": "2001",
+            "2002": "2002",
+            "2003": "2003",
+            "2004": "2004",
+            "2005": "2005",
+            "2006": "2006",
+            "2007": "2007",
+            "2008": "2008",
+            "2009": "2009",
+            "2010": "2010",
+            "2011": "2011",
+            "2012": "2012",
+            "2013": "2013",
+            "2014": "2014",
+            "2015": "2015",
+            "2016": "2016",
+            "2017": "2017",
+            "2018": "2018",
+            "2019": "2019",
+            "2020": "2020",
+            "2021": "2021",
+            "2022": "2022",
+            "2023": "2023",
+            "2024": "2024"
+          }
+        }
+      },
+      "id": [
+        "Llojtransporti",
+        "Shtetas",
+        "HyrjeDaljet",
+        "ContentsCode",
+        "Viti"
+      ],
+      "size": [
+        1,
+        1,
+        1,
+        1,
+        24
+      ],
+      "role": {
+        "metric": [
+          "ContentsCode"
+        ],
+        "time": [
+          "Viti"
+        ]
+      }
+    },
+    "label": "Hyrje/Dalje e shtetasve shqiptar dhe të huaj sipas Mënyrës së udhëtimit, Shtetësia, Hyrje/Dalje, Variabla dhe Viti",
+    "source": "Instituti i Statistikave (INSTAT)",
+    "updated": "2025-03-26T10:05:00Z",
+    "value": [
+      354000,
+      470574,
+      558057,
+      645409,
+      747837,
+      937038,
+      1126514,
+      1419191,
+      1855638,
+      2417337,
+      2932132,
+      3513666,
+      3255988,
+      3672591,
+      4131242,
+      4735511,
+      5117700,
+      5926803,
+      6406038,
+      2657818,
+      5688649,
+      7543817,
+      10155640,
+      11696111
+    ],
+    "extension": {
+      "px": {
+        "infofile": "instat",
+        "tableid": "TU0001",
+        "decimals": 0
+      }
+    }
+  }
+}

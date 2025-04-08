@@ -45,6 +45,5 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 
-# Optional: print or save predictions
 print("Predicted Emigrants (2025–2027):")
 print(future_years.assign(Predicted_Emigrants=future_predictions.astype(int)))

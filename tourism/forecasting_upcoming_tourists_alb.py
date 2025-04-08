@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from statsmodels.tsa.statespace.sarimax import SARIMAX
 
 # Load JSON data
-file_path = "C:\\Users\\Andis\\PycharmProjects\\PythonProject\\Machine-Learning-for-Predictive-Analysis-Python\\Data\\Raw-Data\\shtetas_te_huaj_ne_territorin_shqiptar.json"
+file_path = "shtetas_te_huaj_ne_territorin_shqiptar.json"
 df = pd.read_json(file_path)
 
 # Convert 'Viti' to integer
@@ -39,10 +39,6 @@ sarima_result = model.fit()
 
 # Print model summary
 print(sarima_result.summary())
-
-# Plot diagnostics
-sarima_result.plot_diagnostics(figsize=(12,6))
-plt.show()
 
 # Forecast next 12 months
 forecast_steps = 24

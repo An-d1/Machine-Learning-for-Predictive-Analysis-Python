@@ -16,7 +16,7 @@ import json
 from tqdm import tqdm
 
 # Load and flatten JSON data
-with open("prodhimet_blegtorale.json", encoding="utf-8") as f:
+with open("/Users/arberxhauri/PycharmProjects/Test/livestock_products/prodhimet_blegtorale.json", encoding="utf-8") as f:
     data = json.load(f)["dataset"]
 
 # Extract dimension labels

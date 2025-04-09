@@ -11,22 +11,22 @@ st.set_page_config(layout="wide")
 def load_data():
     csv_path = "/Users/arberxhauri/PycharmProjects/Test/energy/energy_data.csv"
     if not os.path.exists(csv_path):
-        st.error("❌ Missing file: energy_data.csv")
+        st.error("Missing file: energy_data.csv")
         st.stop()
     return pd.read_csv(csv_path, index_col="Year")
 
 df = load_data()
 
 # Sidebar
-st.sidebar.title("⚙️ Energy Explorer")
+st.sidebar.title("Energy Explorer")
 item_options = sorted(df.columns)
 selected_item = st.sidebar.selectbox("Select Energy Metric", item_options)
 model_types = ["LinearRegression", "RandomForest", "SVR"]
 selected_model = st.sidebar.selectbox("Select Prediction CSV", model_types)
-predict_year = st.sidebar.number_input("Predict Year", min_value=2025, max_value=2100, value=2030)
+predict_year = st.sidebar.number_input("Predict Year", min_value=2025, max_value=2030, value=2030)
 
 # Title
-st.title("🔋 Energy Forecast Dashboard")
+st.title("Energy Forecast Dashboard")
 st.write(f"### Forecasting '{selected_item}' using {selected_model}")
 
 # Build CSV path
@@ -56,4 +56,4 @@ if os.path.exists(prediction_path):
     ax.legend()
     st.pyplot(fig)
 else:
-    st.error(f"❌ Prediction CSV not found: {prediction_path}")
+    st.error(f"Prediction CSV not found: {prediction_path}")

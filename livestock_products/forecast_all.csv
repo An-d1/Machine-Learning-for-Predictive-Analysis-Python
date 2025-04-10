@@ -1,0 +1,601 @@
+Product,Region,Year,Forecast_tons
+Lesh,Berat,2024,210
+Lesh,Berat,2025,221
+Lesh,Berat,2026,228
+Lesh,Berat,2027,232
+Lesh,Berat,2028,236
+Lesh,Dibër,2024,133
+Lesh,Dibër,2025,131
+Lesh,Dibër,2026,132
+Lesh,Dibër,2027,131
+Lesh,Dibër,2028,132
+Lesh,Durrës,2024,94
+Lesh,Durrës,2025,94
+Lesh,Durrës,2026,94
+Lesh,Durrës,2027,94
+Lesh,Durrës,2028,94
+Lesh,Elbasan,2024,384
+Lesh,Elbasan,2025,367
+Lesh,Elbasan,2026,369
+Lesh,Elbasan,2027,369
+Lesh,Elbasan,2028,369
+Lesh,Fier,2024,459
+Lesh,Fier,2025,458
+Lesh,Fier,2026,458
+Lesh,Fier,2027,458
+Lesh,Fier,2028,458
+Lesh,Gjirokastër,2024,218
+Lesh,Gjirokastër,2025,218
+Lesh,Gjirokastër,2026,218
+Lesh,Gjirokastër,2027,218
+Lesh,Gjirokastër,2028,218
+Lesh,Korçë,2024,341
+Lesh,Korçë,2025,336
+Lesh,Korçë,2026,338
+Lesh,Korçë,2027,337
+Lesh,Korçë,2028,337
+Lesh,Kukës,2024,54
+Lesh,Kukës,2025,57
+Lesh,Kukës,2026,58
+Lesh,Kukës,2027,58
+Lesh,Kukës,2028,59
+Lesh,Lezhë,2024,71
+Lesh,Lezhë,2025,70
+Lesh,Lezhë,2026,70
+Lesh,Lezhë,2027,70
+Lesh,Lezhë,2028,70
+Lesh,Shkodër,2024,99
+Lesh,Shkodër,2025,99
+Lesh,Shkodër,2026,99
+Lesh,Shkodër,2027,99
+Lesh,Shkodër,2028,99
+Lesh,Tiranë,2024,85
+Lesh,Tiranë,2025,86
+Lesh,Tiranë,2026,86
+Lesh,Tiranë,2027,86
+Lesh,Tiranë,2028,86
+Lesh,Vlorë,2024,635
+Lesh,Vlorë,2025,635
+Lesh,Vlorë,2026,635
+Lesh,Vlorë,2027,635
+Lesh,Vlorë,2028,635
+Mish derri,Berat,2024,189
+Mish derri,Berat,2025,189
+Mish derri,Berat,2026,189
+Mish derri,Berat,2027,189
+Mish derri,Berat,2028,189
+Mish derri,Dibër,2024,116
+Mish derri,Dibër,2025,115
+Mish derri,Dibër,2026,115
+Mish derri,Dibër,2027,115
+Mish derri,Dibër,2028,115
+Mish derri,Durrës,2024,593
+Mish derri,Durrës,2025,666
+Mish derri,Durrës,2026,676
+Mish derri,Durrës,2027,678
+Mish derri,Durrës,2028,678
+Mish derri,Elbasan,2024,402
+Mish derri,Elbasan,2025,395
+Mish derri,Elbasan,2026,397
+Mish derri,Elbasan,2027,396
+Mish derri,Elbasan,2028,396
+Mish derri,Fier,2024,3695
+Mish derri,Fier,2025,3746
+Mish derri,Fier,2026,3713
+Mish derri,Fier,2027,3734
+Mish derri,Fier,2028,3721
+Mish derri,Gjirokastër,2024,84
+Mish derri,Gjirokastër,2025,84
+Mish derri,Gjirokastër,2026,84
+Mish derri,Gjirokastër,2027,84
+Mish derri,Gjirokastër,2028,84
+Mish derri,Korçë,2024,93
+Mish derri,Korçë,2025,138
+Mish derri,Korçë,2026,104
+Mish derri,Korçë,2027,130
+Mish derri,Korçë,2028,110
+Mish derri,Kukës,2024,38
+Mish derri,Kukës,2025,39
+Mish derri,Kukës,2026,38
+Mish derri,Kukës,2027,39
+Mish derri,Kukës,2028,39
+Mish derri,Lezhë,2024,4617
+Mish derri,Lezhë,2025,4584
+Mish derri,Lezhë,2026,4600
+Mish derri,Lezhë,2027,4592
+Mish derri,Lezhë,2028,4596
+Mish derri,Shkodër,2024,2056
+Mish derri,Shkodër,2025,2052
+Mish derri,Shkodër,2026,2054
+Mish derri,Shkodër,2027,2053
+Mish derri,Shkodër,2028,2054
+Mish derri,Tiranë,2024,33
+Mish derri,Tiranë,2025,41
+Mish derri,Tiranë,2026,36
+Mish derri,Tiranë,2027,39
+Mish derri,Tiranë,2028,37
+Mish derri,Vlorë,2024,878
+Mish derri,Vlorë,2025,901
+Mish derri,Vlorë,2026,913
+Mish derri,Vlorë,2027,919
+Mish derri,Vlorë,2028,922
+Mish gjedhi,Berat,2024,3380
+Mish gjedhi,Berat,2025,3324
+Mish gjedhi,Berat,2026,3350
+Mish gjedhi,Berat,2027,3338
+Mish gjedhi,Berat,2028,3344
+Mish gjedhi,Dibër,2024,5508
+Mish gjedhi,Dibër,2025,5528
+Mish gjedhi,Dibër,2026,5530
+Mish gjedhi,Dibër,2027,5530
+Mish gjedhi,Dibër,2028,5530
+Mish gjedhi,Durrës,2024,1848
+Mish gjedhi,Durrës,2025,1934
+Mish gjedhi,Durrës,2026,1873
+Mish gjedhi,Durrës,2027,1916
+Mish gjedhi,Durrës,2028,1886
+Mish gjedhi,Elbasan,2024,6030
+Mish gjedhi,Elbasan,2025,6180
+Mish gjedhi,Elbasan,2026,6066
+Mish gjedhi,Elbasan,2027,6152
+Mish gjedhi,Elbasan,2028,6087
+Mish gjedhi,Fier,2024,9666
+Mish gjedhi,Fier,2025,9694
+Mish gjedhi,Fier,2026,9673
+Mish gjedhi,Fier,2027,9689
+Mish gjedhi,Fier,2028,9677
+Mish gjedhi,Gjirokastër,2024,1644
+Mish gjedhi,Gjirokastër,2025,1728
+Mish gjedhi,Gjirokastër,2026,1768
+Mish gjedhi,Gjirokastër,2027,1786
+Mish gjedhi,Gjirokastër,2028,1795
+Mish gjedhi,Korçë,2024,6969
+Mish gjedhi,Korçë,2025,6860
+Mish gjedhi,Korçë,2026,6772
+Mish gjedhi,Korçë,2027,6702
+Mish gjedhi,Korçë,2028,6646
+Mish gjedhi,Kukës,2024,3694
+Mish gjedhi,Kukës,2025,3734
+Mish gjedhi,Kukës,2026,3767
+Mish gjedhi,Kukës,2027,3797
+Mish gjedhi,Kukës,2028,3823
+Mish gjedhi,Lezhë,2024,2927
+Mish gjedhi,Lezhë,2025,3022
+Mish gjedhi,Lezhë,2026,3063
+Mish gjedhi,Lezhë,2027,3081
+Mish gjedhi,Lezhë,2028,3089
+Mish gjedhi,Shkodër,2024,3490
+Mish gjedhi,Shkodër,2025,3486
+Mish gjedhi,Shkodër,2026,3487
+Mish gjedhi,Shkodër,2027,3487
+Mish gjedhi,Shkodër,2028,3487
+Mish gjedhi,Tiranë,2024,5324
+Mish gjedhi,Tiranë,2025,5296
+Mish gjedhi,Tiranë,2026,5303
+Mish gjedhi,Tiranë,2027,5301
+Mish gjedhi,Tiranë,2028,5301
+Mish gjedhi,Vlorë,2024,4916
+Mish gjedhi,Vlorë,2025,4964
+Mish gjedhi,Vlorë,2026,4945
+Mish gjedhi,Vlorë,2027,4952
+Mish gjedhi,Vlorë,2028,4950
+Mish shpendi,Berat,2024,1833
+Mish shpendi,Berat,2025,1902
+Mish shpendi,Berat,2026,1949
+Mish shpendi,Berat,2027,1982
+Mish shpendi,Berat,2028,2004
+Mish shpendi,Dibër,2024,525
+Mish shpendi,Dibër,2025,525
+Mish shpendi,Dibër,2026,525
+Mish shpendi,Dibër,2027,525
+Mish shpendi,Dibër,2028,525
+Mish shpendi,Durrës,2024,1428
+Mish shpendi,Durrës,2025,3191
+Mish shpendi,Durrës,2026,1719
+Mish shpendi,Durrës,2027,2949
+Mish shpendi,Durrës,2028,1921
+Mish shpendi,Elbasan,2024,1630
+Mish shpendi,Elbasan,2025,1631
+Mish shpendi,Elbasan,2026,1631
+Mish shpendi,Elbasan,2027,1631
+Mish shpendi,Elbasan,2028,1631
+Mish shpendi,Fier,2024,9989
+Mish shpendi,Fier,2025,10277
+Mish shpendi,Fier,2026,10564
+Mish shpendi,Fier,2027,10852
+Mish shpendi,Fier,2028,11139
+Mish shpendi,Gjirokastër,2024,147
+Mish shpendi,Gjirokastër,2025,145
+Mish shpendi,Gjirokastër,2026,145
+Mish shpendi,Gjirokastër,2027,145
+Mish shpendi,Gjirokastër,2028,145
+Mish shpendi,Korçë,2024,510
+Mish shpendi,Korçë,2025,505
+Mish shpendi,Korçë,2026,501
+Mish shpendi,Korçë,2027,498
+Mish shpendi,Korçë,2028,497
+Mish shpendi,Kukës,2024,135
+Mish shpendi,Kukës,2025,147
+Mish shpendi,Kukës,2026,151
+Mish shpendi,Kukës,2027,152
+Mish shpendi,Kukës,2028,153
+Mish shpendi,Lezhë,2024,799
+Mish shpendi,Lezhë,2025,798
+Mish shpendi,Lezhë,2026,798
+Mish shpendi,Lezhë,2027,798
+Mish shpendi,Lezhë,2028,798
+Mish shpendi,Shkodër,2024,676
+Mish shpendi,Shkodër,2025,684
+Mish shpendi,Shkodër,2026,680
+Mish shpendi,Shkodër,2027,682
+Mish shpendi,Shkodër,2028,681
+Mish shpendi,Tiranë,2024,2666
+Mish shpendi,Tiranë,2025,2653
+Mish shpendi,Tiranë,2026,2665
+Mish shpendi,Tiranë,2027,2654
+Mish shpendi,Tiranë,2028,2664
+Mish shpendi,Vlorë,2024,627
+Mish shpendi,Vlorë,2025,624
+Mish shpendi,Vlorë,2026,623
+Mish shpendi,Vlorë,2027,623
+Mish shpendi,Vlorë,2028,623
+Mish të imtash,Berat,2024,3849
+Mish të imtash,Berat,2025,3847
+Mish të imtash,Berat,2026,3847
+Mish të imtash,Berat,2027,3847
+Mish të imtash,Berat,2028,3847
+Mish të imtash,Dibër,2024,2431
+Mish të imtash,Dibër,2025,2638
+Mish të imtash,Dibër,2026,2773
+Mish të imtash,Dibër,2027,2861
+Mish të imtash,Dibër,2028,2918
+Mish të imtash,Durrës,2024,1229
+Mish të imtash,Durrës,2025,1255
+Mish të imtash,Durrës,2026,1261
+Mish të imtash,Durrës,2027,1261
+Mish të imtash,Durrës,2028,1262
+Mish të imtash,Elbasan,2024,4782
+Mish të imtash,Elbasan,2025,4656
+Mish të imtash,Elbasan,2026,4765
+Mish të imtash,Elbasan,2027,4671
+Mish të imtash,Elbasan,2028,4753
+Mish të imtash,Fier,2024,5068
+Mish të imtash,Fier,2025,5063
+Mish të imtash,Fier,2026,5064
+Mish të imtash,Fier,2027,5064
+Mish të imtash,Fier,2028,5064
+Mish të imtash,Gjirokastër,2024,4563
+Mish të imtash,Gjirokastër,2025,4541
+Mish të imtash,Gjirokastër,2026,4561
+Mish të imtash,Gjirokastër,2027,4543
+Mish të imtash,Gjirokastër,2028,4560
+Mish të imtash,Korçë,2024,5635
+Mish të imtash,Korçë,2025,5556
+Mish të imtash,Korçë,2026,5490
+Mish të imtash,Korçë,2027,5434
+Mish të imtash,Korçë,2028,5388
+Mish të imtash,Kukës,2024,1134
+Mish të imtash,Kukës,2025,1111
+Mish të imtash,Kukës,2026,1116
+Mish të imtash,Kukës,2027,1115
+Mish të imtash,Kukës,2028,1115
+Mish të imtash,Lezhë,2024,1365
+Mish të imtash,Lezhë,2025,1365
+Mish të imtash,Lezhë,2026,1365
+Mish të imtash,Lezhë,2027,1365
+Mish të imtash,Lezhë,2028,1365
+Mish të imtash,Shkodër,2024,2190
+Mish të imtash,Shkodër,2025,2143
+Mish të imtash,Shkodër,2026,2190
+Mish të imtash,Shkodër,2027,2143
+Mish të imtash,Shkodër,2028,2190
+Mish të imtash,Tiranë,2024,1468
+Mish të imtash,Tiranë,2025,1462
+Mish të imtash,Tiranë,2026,1459
+Mish të imtash,Tiranë,2027,1458
+Mish të imtash,Tiranë,2028,1457
+Mish të imtash,Vlorë,2024,12806
+Mish të imtash,Vlorë,2025,12795
+Mish të imtash,Vlorë,2026,12801
+Mish të imtash,Vlorë,2027,12797
+Mish të imtash,Vlorë,2028,12799
+Mjaltë,Berat,2024,351
+Mjaltë,Berat,2025,371
+Mjaltë,Berat,2026,356
+Mjaltë,Berat,2027,367
+Mjaltë,Berat,2028,359
+Mjaltë,Dibër,2024,328
+Mjaltë,Dibër,2025,330
+Mjaltë,Dibër,2026,329
+Mjaltë,Dibër,2027,330
+Mjaltë,Dibër,2028,329
+Mjaltë,Durrës,2024,178
+Mjaltë,Durrës,2025,183
+Mjaltë,Durrës,2026,188
+Mjaltë,Durrës,2027,193
+Mjaltë,Durrës,2028,198
+Mjaltë,Elbasan,2024,704
+Mjaltë,Elbasan,2025,745
+Mjaltë,Elbasan,2026,783
+Mjaltë,Elbasan,2027,819
+Mjaltë,Elbasan,2028,853
+Mjaltë,Fier,2024,649
+Mjaltë,Fier,2025,680
+Mjaltë,Fier,2026,711
+Mjaltë,Fier,2027,741
+Mjaltë,Fier,2028,770
+Mjaltë,Gjirokastër,2024,256
+Mjaltë,Gjirokastër,2025,257
+Mjaltë,Gjirokastër,2026,257
+Mjaltë,Gjirokastër,2027,257
+Mjaltë,Gjirokastër,2028,257
+Mjaltë,Korçë,2024,843
+Mjaltë,Korçë,2025,843
+Mjaltë,Korçë,2026,843
+Mjaltë,Korçë,2027,843
+Mjaltë,Korçë,2028,843
+Mjaltë,Kukës,2024,350
+Mjaltë,Kukës,2025,351
+Mjaltë,Kukës,2026,351
+Mjaltë,Kukës,2027,351
+Mjaltë,Kukës,2028,351
+Mjaltë,Lezhë,2024,198
+Mjaltë,Lezhë,2025,198
+Mjaltë,Lezhë,2026,198
+Mjaltë,Lezhë,2027,198
+Mjaltë,Lezhë,2028,198
+Mjaltë,Shkodër,2024,652
+Mjaltë,Shkodër,2025,530
+Mjaltë,Shkodër,2026,647
+Mjaltë,Shkodër,2027,535
+Mjaltë,Shkodër,2028,642
+Mjaltë,Tiranë,2024,454
+Mjaltë,Tiranë,2025,481
+Mjaltë,Tiranë,2026,508
+Mjaltë,Tiranë,2027,534
+Mjaltë,Tiranë,2028,560
+Mjaltë,Vlorë,2024,827
+Mjaltë,Vlorë,2025,819
+Mjaltë,Vlorë,2026,824
+Mjaltë,Vlorë,2027,821
+Mjaltë,Vlorë,2028,823
+Qumësht dele,Berat,2024,4175
+Qumësht dele,Berat,2025,4167
+Qumësht dele,Berat,2026,4168
+Qumësht dele,Berat,2027,4168
+Qumësht dele,Berat,2028,4168
+Qumësht dele,Dibër,2024,3004
+Qumësht dele,Dibër,2025,3007
+Qumësht dele,Dibër,2026,3007
+Qumësht dele,Dibër,2027,3007
+Qumësht dele,Dibër,2028,3007
+Qumësht dele,Durrës,2024,2983
+Qumësht dele,Durrës,2025,3004
+Qumësht dele,Durrës,2026,2990
+Qumësht dele,Durrës,2027,3000
+Qumësht dele,Durrës,2028,2994
+Qumësht dele,Elbasan,2024,5757
+Qumësht dele,Elbasan,2025,5680
+Qumësht dele,Elbasan,2026,5701
+Qumësht dele,Elbasan,2027,5695
+Qumësht dele,Elbasan,2028,5697
+Qumësht dele,Fier,2024,6903
+Qumësht dele,Fier,2025,6858
+Qumësht dele,Fier,2026,6837
+Qumësht dele,Fier,2027,6826
+Qumësht dele,Fier,2028,6821
+Qumësht dele,Gjirokastër,2024,8714
+Qumësht dele,Gjirokastër,2025,8742
+Qumësht dele,Gjirokastër,2026,8730
+Qumësht dele,Gjirokastër,2027,8735
+Qumësht dele,Gjirokastër,2028,8733
+Qumësht dele,Korçë,2024,8936
+Qumësht dele,Korçë,2025,8789
+Qumësht dele,Korçë,2026,8869
+Qumësht dele,Korçë,2027,8825
+Qumësht dele,Korçë,2028,8849
+Qumësht dele,Kukës,2024,1716
+Qumësht dele,Kukës,2025,1767
+Qumësht dele,Kukës,2026,1749
+Qumësht dele,Kukës,2027,1755
+Qumësht dele,Kukës,2028,1753
+Qumësht dele,Lezhë,2024,1356
+Qumësht dele,Lezhë,2025,1353
+Qumësht dele,Lezhë,2026,1350
+Qumësht dele,Lezhë,2027,1347
+Qumësht dele,Lezhë,2028,1345
+Qumësht dele,Shkodër,2024,3633
+Qumësht dele,Shkodër,2025,3653
+Qumësht dele,Shkodër,2026,3639
+Qumësht dele,Shkodër,2027,3648
+Qumësht dele,Shkodër,2028,3642
+Qumësht dele,Tiranë,2024,1902
+Qumësht dele,Tiranë,2025,1888
+Qumësht dele,Tiranë,2026,1880
+Qumësht dele,Tiranë,2027,1875
+Qumësht dele,Tiranë,2028,1872
+Qumësht dele,Vlorë,2024,16160
+Qumësht dele,Vlorë,2025,16188
+Qumësht dele,Vlorë,2026,16207
+Qumësht dele,Vlorë,2027,16221
+Qumësht dele,Vlorë,2028,16232
+Qumësht dhie,Berat,2024,6313
+Qumësht dhie,Berat,2025,6206
+Qumësht dhie,Berat,2026,6259
+Qumësht dhie,Berat,2027,6233
+Qumësht dhie,Berat,2028,6246
+Qumësht dhie,Dibër,2024,3318
+Qumësht dhie,Dibër,2025,3474
+Qumësht dhie,Dibër,2026,3609
+Qumësht dhie,Dibër,2027,3726
+Qumësht dhie,Dibër,2028,3827
+Qumësht dhie,Durrës,2024,3279
+Qumësht dhie,Durrës,2025,3256
+Qumësht dhie,Durrës,2026,3275
+Qumësht dhie,Durrës,2027,3259
+Qumësht dhie,Durrës,2028,3273
+Qumësht dhie,Elbasan,2024,9053
+Qumësht dhie,Elbasan,2025,9054
+Qumësht dhie,Elbasan,2026,9054
+Qumësht dhie,Elbasan,2027,9054
+Qumësht dhie,Elbasan,2028,9054
+Qumësht dhie,Fier,2024,4809
+Qumësht dhie,Fier,2025,4653
+Qumësht dhie,Fier,2026,4540
+Qumësht dhie,Fier,2027,4459
+Qumësht dhie,Fier,2028,4401
+Qumësht dhie,Gjirokastër,2024,7822
+Qumësht dhie,Gjirokastër,2025,7968
+Qumësht dhie,Gjirokastër,2026,7853
+Qumësht dhie,Gjirokastër,2027,7944
+Qumësht dhie,Gjirokastër,2028,7871
+Qumësht dhie,Korçë,2024,6723
+Qumësht dhie,Korçë,2025,6625
+Qumësht dhie,Korçë,2026,6551
+Qumësht dhie,Korçë,2027,6496
+Qumësht dhie,Korçë,2028,6454
+Qumësht dhie,Kukës,2024,1200
+Qumësht dhie,Kukës,2025,1166
+Qumësht dhie,Kukës,2026,1154
+Qumësht dhie,Kukës,2027,1150
+Qumësht dhie,Kukës,2028,1149
+Qumësht dhie,Lezhë,2024,4788
+Qumësht dhie,Lezhë,2025,4759
+Qumësht dhie,Lezhë,2026,4766
+Qumësht dhie,Lezhë,2027,4765
+Qumësht dhie,Lezhë,2028,4765
+Qumësht dhie,Shkodër,2024,5171
+Qumësht dhie,Shkodër,2025,5226
+Qumësht dhie,Shkodër,2026,5273
+Qumësht dhie,Shkodër,2027,5312
+Qumësht dhie,Shkodër,2028,5344
+Qumësht dhie,Tiranë,2024,3388
+Qumësht dhie,Tiranë,2025,3324
+Qumësht dhie,Tiranë,2026,3286
+Qumësht dhie,Tiranë,2027,3265
+Qumësht dhie,Tiranë,2028,3252
+Qumësht dhie,Vlorë,2024,14940
+Qumësht dhie,Vlorë,2025,15164
+Qumësht dhie,Vlorë,2026,15388
+Qumësht dhie,Vlorë,2027,15612
+Qumësht dhie,Vlorë,2028,15836
+Qumësht lope,Berat,2024,33322
+Qumësht lope,Berat,2025,33302
+Qumësht lope,Berat,2026,33297
+Qumësht lope,Berat,2027,33296
+Qumësht lope,Berat,2028,33295
+Qumësht lope,Dibër,2024,60618
+Qumësht lope,Dibër,2025,60619
+Qumësht lope,Dibër,2026,60619
+Qumësht lope,Dibër,2027,60619
+Qumësht lope,Dibër,2028,60619
+Qumësht lope,Durrës,2024,50023
+Qumësht lope,Durrës,2025,51390
+Qumësht lope,Durrës,2026,52088
+Qumësht lope,Durrës,2027,52446
+Qumësht lope,Durrës,2028,52628
+Qumësht lope,Elbasan,2024,66783
+Qumësht lope,Elbasan,2025,65452
+Qumësht lope,Elbasan,2026,64506
+Qumësht lope,Elbasan,2027,63833
+Qumësht lope,Elbasan,2028,63355
+Qumësht lope,Fier,2024,154304
+Qumësht lope,Fier,2025,153838
+Qumësht lope,Fier,2026,153470
+Qumësht lope,Fier,2027,153180
+Qumësht lope,Fier,2028,152951
+Qumësht lope,Gjirokastër,2024,17268
+Qumësht lope,Gjirokastër,2025,17493
+Qumësht lope,Gjirokastër,2026,17313
+Qumësht lope,Gjirokastër,2027,17457
+Qumësht lope,Gjirokastër,2028,17342
+Qumësht lope,Korçë,2024,94691
+Qumësht lope,Korçë,2025,95254
+Qumësht lope,Korçë,2026,94704
+Qumësht lope,Korçë,2027,95241
+Qumësht lope,Korçë,2028,94716
+Qumësht lope,Kukës,2024,39822
+Qumësht lope,Kukës,2025,38607
+Qumësht lope,Kukës,2026,39748
+Qumësht lope,Kukës,2027,38677
+Qumësht lope,Kukës,2028,39682
+Qumësht lope,Lezhë,2024,45431
+Qumësht lope,Lezhë,2025,45368
+Qumësht lope,Lezhë,2026,45421
+Qumësht lope,Lezhë,2027,45377
+Qumësht lope,Lezhë,2028,45414
+Qumësht lope,Shkodër,2024,65952
+Qumësht lope,Shkodër,2025,66103
+Qumësht lope,Shkodër,2026,65995
+Qumësht lope,Shkodër,2027,66073
+Qumësht lope,Shkodër,2028,66017
+Qumësht lope,Tiranë,2024,84770
+Qumësht lope,Tiranë,2025,83654
+Qumësht lope,Tiranë,2026,82750
+Qumësht lope,Tiranë,2027,82017
+Qumësht lope,Tiranë,2028,81424
+Qumësht lope,Vlorë,2024,52200
+Qumësht lope,Vlorë,2025,51349
+Qumësht lope,Vlorë,2026,52200
+Qumësht lope,Vlorë,2027,51349
+Qumësht lope,Vlorë,2028,52200
+Vezë,Berat,2024,69331
+Vezë,Berat,2025,69412
+Vezë,Berat,2026,69407
+Vezë,Berat,2027,69407
+Vezë,Berat,2028,69407
+Vezë,Dibër,2024,37914
+Vezë,Dibër,2025,37910
+Vezë,Dibër,2026,37906
+Vezë,Dibër,2027,37901
+Vezë,Dibër,2028,37897
+Vezë,Durrës,2024,259033
+Vezë,Durrës,2025,257481
+Vezë,Durrës,2026,257381
+Vezë,Durrës,2027,257374
+Vezë,Durrës,2028,257374
+Vezë,Elbasan,2024,70586
+Vezë,Elbasan,2025,70525
+Vezë,Elbasan,2026,70472
+Vezë,Elbasan,2027,70426
+Vezë,Elbasan,2028,70386
+Vezë,Fier,2024,88256
+Vezë,Fier,2025,87628
+Vezë,Fier,2026,88219
+Vezë,Fier,2027,87663
+Vezë,Fier,2028,88185
+Vezë,Gjirokastër,2024,3518
+Vezë,Gjirokastër,2025,3312
+Vezë,Gjirokastër,2026,3267
+Vezë,Gjirokastër,2027,3257
+Vezë,Gjirokastër,2028,3254
+Vezë,Korçë,2024,57136
+Vezë,Korçë,2025,55617
+Vezë,Korçë,2026,56780
+Vezë,Korçë,2027,55890
+Vezë,Korçë,2028,56571
+Vezë,Kukës,2024,11166
+Vezë,Kukës,2025,11955
+Vezë,Kukës,2026,12302
+Vezë,Kukës,2027,12455
+Vezë,Kukës,2028,12522
+Vezë,Lezhë,2024,27307
+Vezë,Lezhë,2025,27110
+Vezë,Lezhë,2026,27046
+Vezë,Lezhë,2027,27026
+Vezë,Lezhë,2028,27019
+Vezë,Shkodër,2024,109736
+Vezë,Shkodër,2025,109154
+Vezë,Shkodër,2026,109689
+Vezë,Shkodër,2027,109198
+Vezë,Shkodër,2028,109649
+Vezë,Tiranë,2024,57959
+Vezë,Tiranë,2025,58013
+Vezë,Tiranë,2026,58014
+Vezë,Tiranë,2027,58014
+Vezë,Tiranë,2028,58014
+Vezë,Vlorë,2024,81399
+Vezë,Vlorë,2025,81142
+Vezë,Vlorë,2026,81056
+Vezë,Vlorë,2027,81027
+Vezë,Vlorë,2028,81018
